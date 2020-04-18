@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-minimal
 
 title: Coronavirus Disease 2019 (COVID-19) Clinical Data Repository
 description: This is an effort to compile a repository of the clinical characteristics of COVID-19 tested patients.
